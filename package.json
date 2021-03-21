@@ -1,0 +1,15 @@
+{
+  "name": "javascript-calculator",
+  "version": "1.0.0",
+  "description": "Javascript Calculator for Integrative Programming",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://ZenLavs2041866.github.io/javascript-calculator",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
